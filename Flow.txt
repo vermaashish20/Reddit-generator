@@ -1,0 +1,3 @@
+- Program to create automatic reddit account 
+    - 
+- Program to automatic comment on the desired post
